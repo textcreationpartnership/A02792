@@ -35,11 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The solace for the souldier and saylour contayning a discourse and apologie out of the heauenly word
+
+1. Ad Reuerendiſsimum in Chriſto patrem D. Johannem Cantuarienſem Archiepiſcopum, totius Angliae primatem, & metropolitanum, Sereniſſimae Reginae aſecretis conſilijs, & Honoratiſs. virum D. Georgium Comitem Cumbriae, Dominum Weſtmerlandiae, &c. Nobiliſſimi garteriorum ordinis equitem autatum, Dominos ſuos colendiſſimo•.
+
+1. The preface to the Christian Reader.
+
 #####Body#####
-The solace for the souldier and saylour contayning a discourse and apologie out of the heauenly word
+
+1. The Solace for the Souldier and Saylour:
+
 #####Back#####
-The solace for the souldier and saylour contayning a discourse and apologie out of the heauenly word
+
+1. A Prayer for the Souldier and Saylour in time of ſeruice.
+
 **Types of content**
 
   * There are 62 **verse** lines!
